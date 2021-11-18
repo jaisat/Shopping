@@ -3,8 +3,8 @@ const Web3=require('web3');
 const {interfaceCustomer,bytecodeCustomer}=require('./compileCustomer');
 
 const provider=new HDWalletProvider(
-'fence mind note certain monster enable electric choose stumble danger leisure hazard',
-'https://rinkeby.infura.io/v3/0872d5724eee4e9c83548b4c6f910aec',
+'metamask memonic',
+'infura link',
 0,
 4
 );
